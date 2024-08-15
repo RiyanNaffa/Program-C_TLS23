@@ -3,4 +3,4 @@ by *Riyan Naffa Nusafara*, **Boyce**
 
 ---
 
-Program ini membantu melakukan eliminasi Gaussian pada matriks persegi masukan.
+Program ini membantu memecahkan persamaan linear tiga variabel dengan melakukan eliminasi Gaussian pada matriks masukan.
